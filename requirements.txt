@@ -6,6 +6,7 @@ buildozer==1.5.0
     distlib==0.3.8
     filelock==3.13.1
     platformdirs==4.2.0
+Cython==0.29.33
 Kivy==2.3.0
   docutils==0.20.1
   Kivy-Garden==0.1.5
